@@ -12,5 +12,5 @@
 `Code`
 
 ---
-[CPE 322 - Design VI]([https://www.example.com](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI)https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI)
+[CPE 322 - Design VI]([[https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI]
 ![Computer Engineering](githubimage.jpg)
