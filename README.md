@@ -11,4 +11,4 @@
 `Code`
 ---
 [title](https://www.example.com)
-![Computer Engineeirng]([image.jpg](CPE 322 GitHub Image.jpg)
+![Computer Engineeirng]([githubimage.jpg]
