@@ -1,6 +1,6 @@
 # CPE-322---Design-VI
-**Bold Text**
-*Italicized Text*
+**CPE 322 Design VI**
+*Computer Engineering Design VI*
 > Blockquote
 1. First item
 2. Second item
