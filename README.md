@@ -1,15 +1,15 @@
 # CPE-322---Design-VI
 **CPE 322 Design VI**
 *Computer Engineering Design VI*
-> Blockquote
-1. First item
-2. Second item
-3. Third item
-- First item
-- Second item
-- Third item
+> Computer Engineering
+1. Google
+2. Microsoft
+3. Apple
+- Eli Manning
+- Tom Brady
+- Patrick Mahomes
 
-`Code`
+`AI Code`
 
 ---
 [CPE 322 Design VI](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI)
