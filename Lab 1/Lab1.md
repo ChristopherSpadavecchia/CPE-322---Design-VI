@@ -1,2 +1,2 @@
 **Half Adder**
-![Half Adder](CPE 322 Lab 1 Half Adder.png)
+![Half Adder](CPE_322_Lab_1_Half Adder.png)
