@@ -55,15 +55,25 @@
 ![mv file file2](mv_file_file2.png)
 
 **rm file2**
+
 ![rm file2](rm_file2.png)
+
 **clear**
+
 ![clear](CPE_322_Lab_2_clear.png)
+
 **man uname**
+
 ![man uname](man_uname_1.png)
+
 ![man uname](man_uname_2.png)
+
 ![man uname](man_uname_3.png)
+
 **uname -a**
+
 ![uname -a](uname_-a.png)
+
 **if config**
 ![if config](CPE_322_Lab_2_ifconfig)
 **ping localhost**
