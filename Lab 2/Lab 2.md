@@ -41,12 +41,19 @@
 ![nano_file](nano_file_1.png)
 
 ![nano_file](nano_file_2.png)
+
 **cat file**
+
 ![cat_file](CPE_322_Lab_2_cat_file.png)
+
 **cp file file1**
+
 ![cp file file1](CPE_322_Lab_2_cp_file_file1.png)
+
 **mv file file2**
+
 ![mv file file2](mv_file_file2.png)
+
 **rm file2**
 ![rm file2](rm_file2.png)
 **clear**
