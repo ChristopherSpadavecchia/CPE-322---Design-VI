@@ -39,7 +39,7 @@
 ![nano_file](nano_file_1.png)
 ![nano_file](nano_file_2.png)
 **cat file**
-![cat_file](cat_file.png)
+![cat_file](CPE_322_Lab_2_cat_file.png)
 **cp file file1**
 ![cp file file1](CPE_322_Lab_2_cp_file_file1.png)
 **mv file file2**
@@ -52,3 +52,9 @@
 ![man uname](man_uname_1.png)
 ![man uname](man_uname_2.png)
 ![man uname](man_uname_3.png)
+**uname -a**
+![uname -a](uname_-a.png)
+**if config**
+![if config](CPE_322_Lab_2_ifconfig)
+**ping localhost**
+![ping_localhost](ping_localhost.png)
