@@ -25,10 +25,13 @@
 ![env](CPE_322_Lab_2_cd.png)
 
 **df**
+
 ![df](CPE_322_Lab_2_df.png)
 
 **mkdir demo**
+
 ![mkdir](mkdir_demo.png)
 
 **cd demo**
+
 ![cd_demo](CPE_322_Lab_2_cd_demo.png)
