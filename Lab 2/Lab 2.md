@@ -58,3 +58,10 @@
 ![if config](CPE_322_Lab_2_ifconfig)
 **ping localhost**
 ![ping_localhost](ping_localhost.png)
+**net stat**
+![netstat](netstat_1.png)
+![netstat](netstat_2.png)
+![netstat](netstat_3.png)
+![netstat](netstat_4.png)
+![netstat](netstat_5.png)
+![netstat](netstat_6.png)
