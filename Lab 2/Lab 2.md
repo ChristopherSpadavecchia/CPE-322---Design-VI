@@ -6,6 +6,9 @@
 **ps**
 ![ps](ps.png)
 **pwd**
+
 ![pwd](pwd.png)
+
 **git clone**
+
 ![git clone](CPE_322_Lab_2_git_clone.png)
