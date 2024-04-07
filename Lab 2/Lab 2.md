@@ -75,9 +75,12 @@
 ![uname -a](uname_-a.png)
 
 **if config**
-![if config](CPE_322_Lab_2_ifconfig)
+![if config](CPE_322_Lab_2_ifconfig.png)
+
 **ping localhost**
+
 ![ping_localhost](ping_localhost.png)
+
 **net stat**
 ![netstat](netstat_1.png)
 ![netstat](netstat_2.png)
