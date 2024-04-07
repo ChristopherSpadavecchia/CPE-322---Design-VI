@@ -37,7 +37,9 @@
 ![cd_demo](CPE_322_Lab_2_cd_demo.png)
 
 **nano file**
+
 ![nano_file](nano_file_1.png)
+
 ![nano_file](nano_file_2.png)
 **cat file**
 ![cat_file](CPE_322_Lab_2_cat_file.png)
