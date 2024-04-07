@@ -35,3 +35,20 @@
 **cd demo**
 
 ![cd_demo](CPE_322_Lab_2_cd_demo.png)
+**nano file**
+![nano_file](nano_file_1.png)
+![nano_file](nano_file_2.png)
+**cat file**
+![cat_file](cat_file.png)
+**cp file file1**
+![cp file file1](CPE_322_Lab_2_cp_file_file1.png)
+**mv file file2**
+![mv file file2](mv_file_file2.png)
+**rm file2**
+![rm file2](rm_file2.png)
+**clear**
+![clear](CPE_322_Lab_2_clear.png)
+**man uname**
+![man uname](man_uname_1.png)
+![man uname](man_uname_2.png)
+![man uname](man_uname_3.png)
