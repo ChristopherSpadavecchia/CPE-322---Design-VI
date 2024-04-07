@@ -15,7 +15,9 @@
 **git clone**
 ![git clone](CPE_322_Lab_2_git_clone.png)
 **cd iot** 
+
 ![cd iot](CPE_322_Lab_2_cd_iot.png)
+
 **ls**
 ![ls](CPE_322_Lab_2_ls.png)
 **cd**
