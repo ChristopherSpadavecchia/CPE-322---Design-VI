@@ -27,15 +27,27 @@
 ![sun](py_sun.png)
 
 **python3 moon.py**
+
 ![moon](py_moon1.png)
+
 ![moon](py_moon2.png)
+
 **python 3 coordinates.py "Samuel C. Williams Library"**
+
 ![coordinates](py_coordinates.png)
+
 **python3 address.py "40.74480675, -74.02532861159351"**
+
 ![address](py_address.png)
+
 **python3 cpu.py**
+
 ![cpu](py_cpu.png)
+
 **python3 battery.py**
+
 ![battery](py_battery.png)
+
 **python3 documentstats.py document.txt**
+
 ![document](py_document.png)
