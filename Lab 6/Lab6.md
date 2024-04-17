@@ -40,6 +40,10 @@
 
 ![node_http](node_http2.png)
 
+**cd iot lesson 6**
+
+![cd_iot_lesson_6-1](cd_iot_lesson6-1.png)
+
 **cat say_hello.mustache**
 
 ![cat_say_hello_mustache](cat_say_hello_mustache.png)
