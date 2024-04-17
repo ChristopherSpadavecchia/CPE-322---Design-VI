@@ -24,3 +24,16 @@
 
 **cd iot lesson 6**
 
+![cd_iot_lesson_6](cd_iot_lesson_6.png)
+
+**node hello_world.js**
+
+![node_hello_world](node_hello_world.png)
+
+**node hello.js**
+
+![node_hello](node_hello.png)
+
+**node http.js**
+
+![node_http](node_http.png)
