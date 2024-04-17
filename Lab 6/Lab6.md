@@ -36,4 +36,19 @@
 
 **node http.js**
 
-![node_http](node_http.png)
+![node_http](node_http1.png)
+
+![node_http](node_http2.png)
+
+**cat say_hello.mustache**
+
+![cat_say_hello_mustache](cat_say_hello_mustache.png)
+
+**cat say_hello.py**
+
+![cat_say_hello_py](cat_say_hello_py.png)
+
+**python3 say_hello.py**
+
+![python_say_hello_py](python_say_hello_py.png)
+
