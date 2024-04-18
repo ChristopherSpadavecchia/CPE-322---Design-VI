@@ -12,4 +12,4 @@
 
 **Google Sheets**
 
-![google_sheets_rpidata](google_sheets_rpidata.png)
+![rpidata_google_sheets](rpidata_google_sheets.png)
