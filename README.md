@@ -1,16 +1,3 @@
 # CPE 322 - Design VI Labs
-**CPE 322 Design VI**
-*Computer Engineering Design VI*
-> Computer Engineering
-1. Google
-2. Microsoft
-3. Apple
-- Eli Manning
-- Tom Brady
-- Patrick Mahomes
-
-`AI Code`
-
----
-[CPE 322 Design VI](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI)
-![Computer Engineering](githubimage.jpg)
+**Labs 1-10**
+-  [Lab 1](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/main/Lab1.md) - GHDL & GTKWave
