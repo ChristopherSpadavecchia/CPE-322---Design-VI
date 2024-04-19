@@ -32,4 +32,4 @@
 
 **Intrusion Detection Image**
 
-![intrusiondetection_Image](intrusiondetection_Image.png)
+![intrusiondetection_image](intrusiondetection_image.png)
