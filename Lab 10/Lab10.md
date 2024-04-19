@@ -32,12 +32,14 @@
 
 **Python Blockchain App**
 
-  ![blockchain_app_post](blockchain_app_post1.png)
+![blockchain_app_post](blockchain_app_post_block1.png)
 
 **Python Blockchain App Mine**
 
-  ![blockchain_app_mine](blockchain_app_mine.png)
+![blockchain_app_mine](blockchain_app_mine.png)
 
-**Python Blockchain App Multiple Blocks**
+**Python Blockchain App Blocks**
 
- ![blockchain_app_post](blockchain_app_post2.png)
+![blockchain_app_post](blockchain_app_post_block2.png)
+
+![blockchain_app_post](blockchain_app_post_block2.png)
