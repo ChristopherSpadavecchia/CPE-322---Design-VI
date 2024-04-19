@@ -10,4 +10,4 @@
 [Lab 7](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%207/Lab7.md) - ThingSpeak and Google Sheets
 [Lab 8](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%208/Lab8.md) - Data Analysis
 [Lab 9](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%209/Lab9.md) - YANG
-[Lab 10]([https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%210/Lab10.md](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%2010/Lab10.md)) - Blockchain
+[Lab 10](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%2010/Lab10.md) - Blockchain
