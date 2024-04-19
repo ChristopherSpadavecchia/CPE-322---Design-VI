@@ -1,7 +1,7 @@
 # CPE 322 - Design VI Labs
 ### Labs 1 - 10: 
 
-- [Lab 1](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%201/Lab1.md) - GHDL & GTKWave
+- [Lab 1](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%201/Lab1.md) - GHDL and GTKWave
 - [Lab 2](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%202/Lab2.md) - Command Line
 - [Lab 3](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%203/Lab3.md) - Python
 - [Lab 4](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%204/Lab4.md) - Django & Flask
