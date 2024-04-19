@@ -4,7 +4,7 @@
 - [Lab 1](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%201/Lab1.md) - GHDL and GTKWave
 - [Lab 2](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%202/Lab2.md) - Command Line
 - [Lab 3](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%203/Lab3.md) - Python
-- [Lab 4](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%204/Lab4.md) - Django & Flask
+- [Lab 4](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%204/Lab4.md) - Django and Flask
 - [Lab 5](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%205/Lab5.md) - Paho-MQTT
 - [Lab 6](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%206/Lab6.md) - Node.js and Pystache
 - [Lab 7](https://github.com/ChristopherSpadavecchia/CPE-322---Design-VI/blob/main/Lab%207/Lab7.md) - ThingSpeak and Google Sheets
