@@ -1,4 +1,4 @@
-# CPE-322---Design-VI
+# CPE 322 - Design VI Labs
 **CPE 322 Design VI**
 *Computer Engineering Design VI*
 > Computer Engineering
