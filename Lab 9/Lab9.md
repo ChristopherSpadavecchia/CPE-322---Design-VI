@@ -12,11 +12,11 @@
 
 **cat intrusiondetection.yin**
 
-[cat_intrusiondetection_yin1](cat_intrusiondetection_yin1.png)
+![cat_intrusiondetection_yin1](cat_intrusiondetection_yin1.png)
 
-[cat_intrusiondetection_yin2](cat_intrusiondetection_yin2.png)
+![cat_intrusiondetection_yin2](cat_intrusiondetection_yin2.png)
 
-[cat_intrusiondetection_yin3](cat_intrusiondetection_yin3.png)
+![cat_intrusiondetection_yin3](cat_intrusiondetection_yin3.png)
 
 **pyang -f uml -o intrusiondetection.uml**
 
@@ -24,7 +24,7 @@
 
 **cat intrusiondetection.uml**
 
-[cat_intrusiondetection_uml](cat_intrusiondetection_uml.png)
+![cat_intrusiondetection_uml](cat_intrusiondetection_uml.png)
 
 **python3 -m plantuml intrusiondetection.uml**
 
